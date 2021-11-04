@@ -1,4 +1,4 @@
-baseURL = "https://github.com/carvesco/vc.git"
+baseURL = "https://carvesco.github.io/vc/"
 languageCode = "en-us"
 title = "Visual Computing"
 theme = 'book'
